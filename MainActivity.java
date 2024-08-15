@@ -1,4 +1,4 @@
-package com.example.shashank.login;
+package com.example.vinay.login;
 
 import android.content.Intent;
 import android.database.Cursor;
