@@ -1,8 +1,6 @@
-package com.example.shashank.login;
+package com.example.vinay.login;
 
-/**
- * Created by Shashank on 14-Feb-18.
- */
+
 
 import android.content.Context;
 import android.content.Intent;
